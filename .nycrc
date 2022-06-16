@@ -1,0 +1,7 @@
+{
+    "extension": [".ts"],
+    "exclude": [
+        "(webpack)/buildin/**",
+        "webpack/**"
+    ]
+}
